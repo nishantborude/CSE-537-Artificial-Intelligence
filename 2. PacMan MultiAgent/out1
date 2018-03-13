@@ -1,0 +1,689 @@
+Starting on 10-4 at 17:00:26
+
+Question q1
+===========
+
+Pacman emerges victorious! Score: 881
+Pacman emerges victorious! Score: 1242
+Pacman emerges victorious! Score: 1172
+Pacman emerges victorious! Score: 1060
+Pacman emerges victorious! Score: 1139
+Pacman emerges victorious! Score: 800
+Pacman emerges victorious! Score: 993
+Pacman emerges victorious! Score: 1235
+Pacman emerges victorious! Score: 1197
+Pacman emerges victorious! Score: 1189
+Average Score: 1090.8
+Scores:        881.0, 1242.0, 1172.0, 1060.0, 1139.0, 800.0, 993.0, 1235.0, 1197.0, 1189.0
+Win Rate:      10/10 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
+*** PASS: test_cases/q1/grade-agent.test (4 of 4 points)
+***     1090.8 average score (2 of 2 points)
+***         Grading scheme:
+***          < 500:  0 points
+***         >= 500:  1 points
+***         >= 1000:  2 points
+***     10 games not timed out (0 of 0 points)
+***         Grading scheme:
+***          < 10:  fail
+***         >= 10:  0 points
+***     10 wins (2 of 2 points)
+***         Grading scheme:
+***          < 1:  fail
+***         >= 1:  0 points
+***         >= 5:  1 points
+***         >= 10:  2 points
+
+### Question q1: 4/4 ###
+
+
+Question q2
+===========
+
+12
+*** PASS: test_cases/q2/0-lecture-6-tree.test
+7
+*** PASS: test_cases/q2/0-small-tree.test
+10
+*** PASS: test_cases/q2/1-1-minmax.test
+10
+*** PASS: test_cases/q2/1-2-minmax.test
+10
+*** PASS: test_cases/q2/1-3-minmax.test
+10
+*** PASS: test_cases/q2/1-4-minmax.test
+19
+*** PASS: test_cases/q2/1-5-minmax.test
+19
+*** PASS: test_cases/q2/1-6-minmax.test
+19
+*** PASS: test_cases/q2/1-7-minmax.test
+19
+*** PASS: test_cases/q2/1-8-minmax.test
+5
+*** PASS: test_cases/q2/2-1a-vary-depth.test
+10
+*** PASS: test_cases/q2/2-1b-vary-depth.test
+5
+*** PASS: test_cases/q2/2-2a-vary-depth.test
+10
+*** PASS: test_cases/q2/2-2b-vary-depth.test
+5
+*** PASS: test_cases/q2/2-3a-vary-depth.test
+10
+*** PASS: test_cases/q2/2-3b-vary-depth.test
+5
+*** PASS: test_cases/q2/2-4a-vary-depth.test
+10
+*** PASS: test_cases/q2/2-4b-vary-depth.test
+14
+*** PASS: test_cases/q2/2-one-ghost-3level.test
+30
+*** PASS: test_cases/q2/3-one-ghost-4level.test
+14
+*** PASS: test_cases/q2/4-two-ghosts-3level.test
+30
+*** PASS: test_cases/q2/5-two-ghosts-4level.test
+5
+*** PASS: test_cases/q2/6-tied-root.test
+6
+*** PASS: test_cases/q2/7-1a-check-depth-one-ghost.test
+12
+*** PASS: test_cases/q2/7-1b-check-depth-one-ghost.test
+18
+*** PASS: test_cases/q2/7-1c-check-depth-one-ghost.test
+9
+*** PASS: test_cases/q2/7-2a-check-depth-two-ghosts.test
+18
+*** PASS: test_cases/q2/7-2b-check-depth-two-ghosts.test
+27
+*** PASS: test_cases/q2/7-2c-check-depth-two-ghosts.test
+*** Running MinimaxAgent on smallClassic 1 time(s).
+72
+345
+606
+769
+869
+1067
+1278
+1332
+1419
+1539
+1686
+1824
+2043
+2270
+2299
+2313
+2327
+2341
+2355
+2369
+2383
+2400
+2428
+2482
+2536
+2565
+2685
+2893
+3177
+3313
+3402
+3523
+3595
+3687
+3771
+3846
+3882
+3927
+4002
+4077
+4161
+4281
+4368
+4452
+4536
+4656
+4799
+4824
+4838
+4852
+4866
+4880
+4894
+4908
+4925
+4953
+4993
+5021
+5061
+5093
+5133
+5150
+5186
+5262
+5324
+5367
+5449
+5581
+5705
+5925
+6042
+6250
+6326
+6487
+6588
+6674
+6763
+6811
+7023
+7096
+7125
+7186
+7199
+7218
+7230
+7242
+7257
+7286
+7326
+7423
+7598
+7640
+7738
+7805
+7838
+7867
+7885
+7918
+7947
+7965
+8008
+8094
+8215
+8348
+8598
+8716
+8822
+8939
+9120
+9234
+9435
+9574
+9755
+9869
+9989
+10262
+10491
+10548
+10577
+10591
+10605
+10619
+10633
+10647
+10664
+10692
+10731
+10771
+10835
+10853
+10878
+10892
+10906
+10923
+10951
+10990
+11030
+11094
+11112
+11137
+11155
+11184
+11217
+11250
+11274
+11280
+Pacman died! Score: 84
+Average Score: 84.0
+Scores:        84.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+*** Finished running MinimaxAgent on smallClassic after 1 seconds.
+*** Won 0 out of 1 games. Average score: 84.000000 ***
+*** PASS: test_cases/q2/8-pacman-game.test
+
+### Question q2: 5/5 ###
+
+
+Question q3
+===========
+
+11
+*** PASS: test_cases/q3/0-lecture-6-tree.test
+5
+*** PASS: test_cases/q3/0-small-tree.test
+9
+*** PASS: test_cases/q3/1-1-minmax.test
+9
+*** PASS: test_cases/q3/1-2-minmax.test
+7
+*** PASS: test_cases/q3/1-3-minmax.test
+10
+*** PASS: test_cases/q3/1-4-minmax.test
+18
+*** PASS: test_cases/q3/1-5-minmax.test
+18
+*** PASS: test_cases/q3/1-6-minmax.test
+17
+*** PASS: test_cases/q3/1-7-minmax.test
+17
+*** PASS: test_cases/q3/1-8-minmax.test
+5
+*** PASS: test_cases/q3/2-1a-vary-depth.test
+9
+*** PASS: test_cases/q3/2-1b-vary-depth.test
+5
+*** PASS: test_cases/q3/2-2a-vary-depth.test
+9
+*** PASS: test_cases/q3/2-2b-vary-depth.test
+5
+*** PASS: test_cases/q3/2-3a-vary-depth.test
+7
+*** PASS: test_cases/q3/2-3b-vary-depth.test
+5
+*** PASS: test_cases/q3/2-4a-vary-depth.test
+7
+*** PASS: test_cases/q3/2-4b-vary-depth.test
+10
+*** PASS: test_cases/q3/2-one-ghost-3level.test
+18
+*** PASS: test_cases/q3/3-one-ghost-4level.test
+13
+*** PASS: test_cases/q3/4-two-ghosts-3level.test
+19
+*** PASS: test_cases/q3/5-two-ghosts-4level.test
+5
+*** PASS: test_cases/q3/6-tied-root.test
+6
+*** PASS: test_cases/q3/7-1a-check-depth-one-ghost.test
+12
+*** PASS: test_cases/q3/7-1b-check-depth-one-ghost.test
+18
+*** PASS: test_cases/q3/7-1c-check-depth-one-ghost.test
+9
+*** PASS: test_cases/q3/7-2a-check-depth-two-ghosts.test
+18
+*** PASS: test_cases/q3/7-2b-check-depth-two-ghosts.test
+27
+*** PASS: test_cases/q3/7-2c-check-depth-two-ghosts.test
+*** Running AlphaBetaAgent on smallClassic 1 time(s).
+44
+127
+230
+313
+372
+459
+536
+578
+646
+726
+832
+920
+1063
+1198
+1225
+1239
+1253
+1267
+1281
+1295
+1309
+1326
+1353
+1404
+1438
+1466
+1566
+1719
+1983
+2107
+2163
+2234
+2295
+2387
+2471
+2546
+2582
+2627
+2702
+2777
+2861
+2977
+3064
+3148
+3232
+3348
+3491
+3516
+3530
+3544
+3558
+3572
+3586
+3600
+3617
+3644
+3678
+3705
+3745
+3774
+3806
+3823
+3855
+3902
+3950
+3993
+4067
+4179
+4283
+4503
+4568
+4736
+4812
+4963
+5054
+5119
+5188
+5235
+5441
+5514
+5538
+5578
+5591
+5610
+5622
+5634
+5649
+5676
+5705
+5794
+5965
+6005
+6099
+6160
+6189
+6216
+6232
+6261
+6288
+6304
+6343
+6421
+6510
+6605
+6820
+6899
+7005
+7122
+7303
+7417
+7618
+7754
+7935
+8049
+8169
+8434
+8655
+8708
+8735
+8749
+8763
+8777
+8791
+8805
+8822
+8849
+8885
+8918
+8973
+8989
+9014
+9028
+9042
+9059
+9085
+9121
+9157
+9212
+9230
+9255
+9273
+9302
+9331
+9358
+9380
+9386
+Pacman died! Score: 84
+Average Score: 84.0
+Scores:        84.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+*** Finished running AlphaBetaAgent on smallClassic after 1 seconds.
+*** Won 0 out of 1 games. Average score: 84.000000 ***
+*** PASS: test_cases/q3/8-pacman-game.test
+
+### Question q3: 5/5 ###
+
+
+Question q4
+===========
+
+12
+*** PASS: test_cases/q4/0-expectimax1.test
+12
+*** PASS: test_cases/q4/1-expectimax2.test
+14
+*** PASS: test_cases/q4/2-one-ghost-3level.test
+30
+*** PASS: test_cases/q4/3-one-ghost-4level.test
+14
+*** PASS: test_cases/q4/4-two-ghosts-3level.test
+30
+*** PASS: test_cases/q4/5-two-ghosts-4level.test
+6
+*** PASS: test_cases/q4/6-1a-check-depth-one-ghost.test
+12
+*** PASS: test_cases/q4/6-1b-check-depth-one-ghost.test
+18
+*** PASS: test_cases/q4/6-1c-check-depth-one-ghost.test
+9
+*** PASS: test_cases/q4/6-2a-check-depth-two-ghosts.test
+18
+*** PASS: test_cases/q4/6-2b-check-depth-two-ghosts.test
+27
+*** PASS: test_cases/q4/6-2c-check-depth-two-ghosts.test
+*** Running ExpectimaxAgent on smallClassic 1 time(s).
+72
+345
+606
+769
+869
+1067
+1278
+1332
+1419
+1539
+1686
+1824
+2043
+2232
+2261
+2275
+2289
+2303
+2317
+2331
+2345
+2362
+2390
+2444
+2498
+2527
+2647
+2855
+3139
+3275
+3364
+3485
+3557
+3649
+3733
+3808
+3844
+3889
+3964
+4039
+4123
+4243
+4330
+4414
+4498
+4618
+4761
+4786
+4800
+4814
+4828
+4842
+4856
+4870
+4887
+4915
+4955
+4983
+5023
+5055
+5095
+5112
+5148
+5224
+5286
+5329
+5411
+5543
+5667
+5887
+6004
+6212
+6288
+6449
+6550
+6636
+6725
+6773
+6985
+7058
+7087
+7148
+7161
+7180
+7192
+7204
+7219
+7248
+7288
+7385
+7560
+7602
+7700
+7767
+7800
+7829
+7847
+7880
+7909
+7927
+7970
+8056
+8177
+8310
+8560
+8678
+8784
+8901
+9082
+9196
+9397
+9536
+9717
+9831
+9951
+10224
+10453
+10510
+10539
+10553
+10567
+10581
+10595
+10609
+10626
+10654
+10693
+10733
+10797
+10815
+10840
+10854
+10868
+10885
+10913
+10952
+10992
+11056
+11074
+11099
+11117
+11146
+11179
+11212
+11236
+11242
+Pacman died! Score: 84
+Average Score: 84.0
+Scores:        84.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+*** Finished running ExpectimaxAgent on smallClassic after 1 seconds.
+*** Won 0 out of 1 games. Average score: 84.000000 ***
+*** PASS: test_cases/q4/7-pacman-game.test
+
+### Question q4: 5/5 ###
+
+
+Question q5
+===========
+
+*** Method not implemented: betterEvaluationFunction at line 346 of multiAgents.py
+*** FAIL: Terminated with a string exception.
+
+### Question q5: 0/6 ###
+
+
+Finished at 17:00:35
+
+Provisional grades
+==================
+Question q1: 4/4
+Question q2: 5/5
+Question q3: 5/5
+Question q4: 5/5
+Question q5: 0/6
+------------------
+Total: 19/25
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
+

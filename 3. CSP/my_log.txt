@@ -1,0 +1,21 @@
+BT wrong testcases: 
+
+
+
+FC wrong testcases: 
+	Wrong answer on test case: (1 ,2)
+	Wrong answer on test case: (2 ,2)
+
+
+
+CP wrong testcases: 
+	Wrong answer on test case: (1 ,2)
+	Wrong answer on test case: (2 ,2)
+	Wrong answer on test case: (3 ,3)
+	Wrong answer on test case: (5 ,3)
+	Wrong answer on test case: (6 ,4)
+	Wrong answer on test case: (9 ,4)
+	Wrong answer on test case: (11 ,5)
+	Wrong answer on test case: (17 ,5)
+	Wrong answer on test case: (17 ,6)
+	Wrong answer on test case: (24 ,6)

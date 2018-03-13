@@ -1,0 +1,251 @@
+Starting on 10-4 at 17:28:32
+
+Question q1
+===========
+
+Pacman emerges victorious! Score: 881
+Pacman emerges victorious! Score: 1242
+Pacman emerges victorious! Score: 1172
+Pacman emerges victorious! Score: 1060
+Pacman emerges victorious! Score: 1139
+Pacman emerges victorious! Score: 800
+Pacman emerges victorious! Score: 993
+Pacman emerges victorious! Score: 1235
+Pacman emerges victorious! Score: 1197
+Pacman emerges victorious! Score: 1189
+Average Score: 1090.8
+Scores:        881.0, 1242.0, 1172.0, 1060.0, 1139.0, 800.0, 993.0, 1235.0, 1197.0, 1189.0
+Win Rate:      10/10 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
+*** PASS: test_cases/q1/grade-agent.test (4 of 4 points)
+***     1090.8 average score (2 of 2 points)
+***         Grading scheme:
+***          < 500:  0 points
+***         >= 500:  1 points
+***         >= 1000:  2 points
+***     10 games not timed out (0 of 0 points)
+***         Grading scheme:
+***          < 10:  fail
+***         >= 10:  0 points
+***     10 wins (2 of 2 points)
+***         Grading scheme:
+***          < 1:  fail
+***         >= 1:  0 points
+***         >= 5:  1 points
+***         >= 10:  2 points
+
+### Question q1: 4/4 ###
+
+
+Question q2
+===========
+
+TIME:  0.0598430633545
+*** PASS: test_cases/q2/0-lecture-6-tree.test
+TIME:  0.0290870666504
+*** PASS: test_cases/q2/0-small-tree.test
+TIME:  0.0350475311279
+*** PASS: test_cases/q2/1-1-minmax.test
+TIME:  0.032901763916
+*** PASS: test_cases/q2/1-2-minmax.test
+TIME:  0.032901763916
+*** PASS: test_cases/q2/1-3-minmax.test
+TIME:  0.032901763916
+*** PASS: test_cases/q2/1-4-minmax.test
+TIME:  0.0619888305664
+*** PASS: test_cases/q2/1-5-minmax.test
+TIME:  0.06103515625
+*** PASS: test_cases/q2/1-6-minmax.test
+TIME:  0.0548362731934
+*** PASS: test_cases/q2/1-7-minmax.test
+TIME:  0.0560283660889
+*** PASS: test_cases/q2/1-8-minmax.test
+TIME:  0.0228881835938
+*** PASS: test_cases/q2/2-1a-vary-depth.test
+TIME:  0.0338554382324
+*** PASS: test_cases/q2/2-1b-vary-depth.test
+TIME:  0.0309944152832
+*** PASS: test_cases/q2/2-2a-vary-depth.test
+TIME:  0.0600814819336
+*** PASS: test_cases/q2/2-2b-vary-depth.test
+TIME:  0.0219345092773
+*** PASS: test_cases/q2/2-3a-vary-depth.test
+TIME:  0.0331401824951
+*** PASS: test_cases/q2/2-3b-vary-depth.test
+TIME:  0.0209808349609
+*** PASS: test_cases/q2/2-4a-vary-depth.test
+TIME:  0.032901763916
+*** PASS: test_cases/q2/2-4b-vary-depth.test
+TIME:  0.042200088501
+*** PASS: test_cases/q2/2-one-ghost-3level.test
+TIME:  0.0920295715332
+*** PASS: test_cases/q2/3-one-ghost-4level.test
+TIME:  0.046968460083
+*** PASS: test_cases/q2/4-two-ghosts-3level.test
+TIME:  0.0810623168945
+*** PASS: test_cases/q2/5-two-ghosts-4level.test
+TIME:  0.0209808349609
+*** PASS: test_cases/q2/6-tied-root.test
+TIME:  0.0240802764893
+*** PASS: test_cases/q2/7-1a-check-depth-one-ghost.test
+TIME:  0.0429153442383
+*** PASS: test_cases/q2/7-1b-check-depth-one-ghost.test
+TIME:  0.06103515625
+*** PASS: test_cases/q2/7-1c-check-depth-one-ghost.test
+TIME:  0.0338554382324
+*** PASS: test_cases/q2/7-2a-check-depth-two-ghosts.test
+TIME:  0.0579357147217
+*** PASS: test_cases/q2/7-2b-check-depth-two-ghosts.test
+TIME:  0.0851154327393
+*** PASS: test_cases/q2/7-2c-check-depth-two-ghosts.test
+*** Running MinimaxAgent on smallClassic 1 time(s).
+Pacman died! Score: 84
+Average Score: 84.0
+Scores:        84.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+*** Finished running MinimaxAgent on smallClassic after 1 seconds.
+*** Won 0 out of 1 games. Average score: 84.000000 ***
+*** PASS: test_cases/q2/8-pacman-game.test
+
+### Question q2: 5/5 ###
+
+
+Question q3
+===========
+
+TIME:  0.0569820404053
+*** PASS: test_cases/q3/0-lecture-6-tree.test
+TIME:  0.0250339508057
+*** PASS: test_cases/q3/0-small-tree.test
+TIME:  0.0369548797607
+*** PASS: test_cases/q3/1-1-minmax.test
+TIME:  0.0338554382324
+*** PASS: test_cases/q3/1-2-minmax.test
+TIME:  0.028133392334
+*** PASS: test_cases/q3/1-3-minmax.test
+TIME:  0.0360012054443
+*** PASS: test_cases/q3/1-4-minmax.test
+TIME:  0.0629425048828
+*** PASS: test_cases/q3/1-5-minmax.test
+TIME:  0.0607967376709
+*** PASS: test_cases/q3/1-6-minmax.test
+TIME:  0.093936920166
+*** PASS: test_cases/q3/1-7-minmax.test
+TIME:  0.0569820404053
+*** PASS: test_cases/q3/1-8-minmax.test
+TIME:  0.0238418579102
+*** PASS: test_cases/q3/2-1a-vary-depth.test
+TIME:  0.0338554382324
+*** PASS: test_cases/q3/2-1b-vary-depth.test
+TIME:  0.0219345092773
+*** PASS: test_cases/q3/2-2a-vary-depth.test
+TIME:  0.0340938568115
+*** PASS: test_cases/q3/2-2b-vary-depth.test
+TIME:  0.0219345092773
+*** PASS: test_cases/q3/2-3a-vary-depth.test
+TIME:  0.0271797180176
+*** PASS: test_cases/q3/2-3b-vary-depth.test
+TIME:  0.0219345092773
+*** PASS: test_cases/q3/2-4a-vary-depth.test
+TIME:  0.0262260437012
+*** PASS: test_cases/q3/2-4b-vary-depth.test
+TIME:  0.0350475311279
+*** PASS: test_cases/q3/2-one-ghost-3level.test
+TIME:  0.0619888305664
+*** PASS: test_cases/q3/3-one-ghost-4level.test
+TIME:  0.0460147857666
+*** PASS: test_cases/q3/4-two-ghosts-3level.test
+TIME:  0.0591278076172
+*** PASS: test_cases/q3/5-two-ghosts-4level.test
+TIME:  0.0209808349609
+*** PASS: test_cases/q3/6-tied-root.test
+TIME:  0.0259876251221
+*** PASS: test_cases/q3/7-1a-check-depth-one-ghost.test
+TIME:  0.0569820404053
+*** PASS: test_cases/q3/7-1b-check-depth-one-ghost.test
+TIME:  0.06103515625
+*** PASS: test_cases/q3/7-1c-check-depth-one-ghost.test
+TIME:  0.0319480895996
+*** PASS: test_cases/q3/7-2a-check-depth-two-ghosts.test
+TIME:  0.0588893890381
+*** PASS: test_cases/q3/7-2b-check-depth-two-ghosts.test
+TIME:  0.0860691070557
+*** PASS: test_cases/q3/7-2c-check-depth-two-ghosts.test
+*** Running AlphaBetaAgent on smallClassic 1 time(s).
+Pacman died! Score: 84
+Average Score: 84.0
+Scores:        84.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+*** Finished running AlphaBetaAgent on smallClassic after 1 seconds.
+*** Won 0 out of 1 games. Average score: 84.000000 ***
+*** PASS: test_cases/q3/8-pacman-game.test
+
+### Question q3: 5/5 ###
+
+
+Question q4
+===========
+
+TIME:  0.0531673431396
+*** PASS: test_cases/q4/0-expectimax1.test
+TIME:  0.0407695770264
+*** PASS: test_cases/q4/1-expectimax2.test
+TIME:  0.0438690185547
+*** PASS: test_cases/q4/2-one-ghost-3level.test
+TIME:  0.0929832458496
+*** PASS: test_cases/q4/3-one-ghost-4level.test
+TIME:  0.0460147857666
+*** PASS: test_cases/q4/4-two-ghosts-3level.test
+TIME:  0.0808238983154
+*** PASS: test_cases/q4/5-two-ghosts-4level.test
+TIME:  0.0250339508057
+*** PASS: test_cases/q4/6-1a-check-depth-one-ghost.test
+TIME:  0.0419616699219
+*** PASS: test_cases/q4/6-1b-check-depth-one-ghost.test
+TIME:  0.0579357147217
+*** PASS: test_cases/q4/6-1c-check-depth-one-ghost.test
+TIME:  0.0319480895996
+*** PASS: test_cases/q4/6-2a-check-depth-two-ghosts.test
+TIME:  0.0557899475098
+*** PASS: test_cases/q4/6-2b-check-depth-two-ghosts.test
+TIME:  0.0820159912109
+*** PASS: test_cases/q4/6-2c-check-depth-two-ghosts.test
+*** Running ExpectimaxAgent on smallClassic 1 time(s).
+Pacman died! Score: 84
+Average Score: 84.0
+Scores:        84.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+*** Finished running ExpectimaxAgent on smallClassic after 1 seconds.
+*** Won 0 out of 1 games. Average score: 84.000000 ***
+*** PASS: test_cases/q4/7-pacman-game.test
+
+### Question q4: 5/5 ###
+
+
+Question q5
+===========
+
+*** Method not implemented: betterEvaluationFunction at line 346 of multiAgents.py
+*** FAIL: Terminated with a string exception.
+
+### Question q5: 0/6 ###
+
+
+Finished at 17:28:41
+
+Provisional grades
+==================
+Question q1: 4/4
+Question q2: 5/5
+Question q3: 5/5
+Question q4: 5/5
+Question q5: 0/6
+------------------
+Total: 19/25
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
+
